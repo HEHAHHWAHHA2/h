@@ -1,4 +1,4 @@
-
+if _G.balls == "AMEK@!!" then
 --varas
 local player = game.Players.LocalPlayer
 --varas
@@ -321,4 +321,5 @@ while wait(_G.speed) do
 		Event:FireServer(A_1, A_2)
 
 	end
+end
 end
